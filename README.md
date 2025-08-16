@@ -1,4 +1,4 @@
-![foto presentacion](./anngie.jpg)
+<img src="./anngie.jpg" alt="foto presentacion" width="200"/>
 
 # Programación con objetos I
 ## Presentación Personal
